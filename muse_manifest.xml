@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cleen.com" resolutions="1x,2x" timestamp="1585773362055">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cleen.com" resolutions="1x,2x" timestamp="1585773645249">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="393990814" ref="index"/>
