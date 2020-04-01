@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://cleen.com/index.html</loc>
+    <lastmod>2020-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://cleen.com/images/menu-(1).svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://cleen.com/menu.html</loc>
+    <lastmod>2020-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cleen.com/assets/timeline-1-mp4-1.webm</loc>
+    <lastmod>2020-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cleen.com/assets/video.mp4</loc>
+    <lastmod>2020-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cleen.com/assets/will-the-dvd-logo-hit-the-corner.mp4</loc>
+    <lastmod>2020-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cleen.com/assets/will-the-dvd-logo-hit-the-corner-1.webm</loc>
+    <lastmod>2020-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

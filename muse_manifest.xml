@@ -1,0 +1,54 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cleen.com" resolutions="1x,2x" timestamp="1585773362055">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="393990814" ref="index"/>
+    <file name="menu.css" crc="3826382024" ref="menu"/>
+  </folder>
+  <folder name="assets">
+    <file name="video.mp4" crc="460525857" seo="true" mt="1585691317000"/>
+    <file name="timeline-1-mp4-1.webm" crc="4045107627" seo="true" mt="1585690765000"/>
+    <file name="will-the-dvd-logo-hit-the-corner.mp4" crc="212621243" seo="true" mt="1585751288000"/>
+    <file name="will-the-dvd-logo-hit-the-corner-1.webm" crc="4162519423" seo="true" mt="1585751753000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:menu"/>
+    <file name="museutils.js" crc="3939489907" ref="index:menu"/>
+    <file name="whatinput.js" crc="86476730" ref="index:menu"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:menu"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:menu"/>
+    <file name="require.js" crc="4177726516" ref="index:menu"/>
+  </folder>
+  <folder name="images">
+    <file name="menu-(1).svg" crc="4028176554" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu (1)_poster_.png" crc="4118034185" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="c2dca918d7add21e188fd5630b6621ca (1).jpg" crc="262457097" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c2dca918d7add21e188fd5630b6621ca (1)_2x.jpg" crc="506432876" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5888c04c1c00002d00d94285.jpg" crc="4119043081" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5888c04c1c00002d00d94285_2x.jpg" crc="510444309" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="new-mens-sets-sport-suit-men-running-gym-sport-wear-tracksuit-fitness-body-building-mens-hoodies_1024x1024.jpg" crc="726936" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="new-mens-sets-sport-suit-men-running-gym-sport-wear-tracksuit-fitness-body-building-mens-hoodies_1024x1024_2x.jpg" crc="530683070" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tesla-model-3-2-640x480.jpg" crc="4054435226" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tesla-model-3-2-640x480_2x.jpg" crc="358372709" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="155721338" seo="true" mt="1585756829241" redirect="true"/>
+  <file name="menu.html" crc="3842248233" seo="true" mt="1585755886523" redirect="true"/>
+</manifest>
